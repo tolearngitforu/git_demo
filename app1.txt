@@ -6,6 +6,7 @@ sdf
 sdf
 sd
 f
+<<<<<<< HEAD
 dsf
 dsaf
 sd
@@ -16,3 +17,5 @@ af
 sd
 f
 d
+=======
+>>>>>>> parent of 339ba4a... dfd
